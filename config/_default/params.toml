@@ -37,9 +37,9 @@ backgroundCanvas = true
   showRelatedContent = true
   relatedContentLimit = 3
   showTaxonomies = true
-  showWordCount = true
+  showWordCount = false
   showZenMode = true
-  sharingLinks = ["email", "facebook"]
+  sharingLinks = ["email", "facebook", "twitter"]
 
 [list]
   showHero = true
