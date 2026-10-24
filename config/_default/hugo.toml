@@ -17,3 +17,8 @@ copyright = "© 2026 Lumen Orientale"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5
