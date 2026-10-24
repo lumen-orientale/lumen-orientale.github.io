@@ -1,19 +1,29 @@
 [[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
   name = "Journal"
   pageRef = "posts"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "About"
   pageRef = "about"
-  weight = 20
+  weight = 30
+
+  [[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
 
 [[footer]]
   name = "Journal"
   pageRef = "posts"
-  weight = 10
+  weight = 20
 
 [[footer]]
   name = "About"
   pageRef = "about"
-  weight = 20
+  weight = 30
