@@ -27,6 +27,10 @@ body {
   font-feature-settings: "kern";
 }
 
+.landing-rise-1 {
+  font-family: Georgia, "Times New Roman", serif;
+}
+
 ::selection {
   background: #d9b18a;
   color: #29271f;

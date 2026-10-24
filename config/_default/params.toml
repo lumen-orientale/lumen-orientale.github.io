@@ -8,7 +8,8 @@ mainSections = ["posts"]
 backgroundCanvas = true
 
 [header]
-  layout = "basic"
+  layout = "fixed"
+  mobileMenuStyle = "dropdown"
 
 [footer]
   showMenu = true
@@ -18,28 +19,37 @@ backgroundCanvas = true
   showScrollToTop = true
 
 [homepage]
-  layout = "background"
+  layout = "landing"
   showRecent = true
   showRecentItems = 3
   showMoreLink = true
   showMoreLinkDest = "/posts/"
+  cardView = true
   layoutBackgroundBlur = false
 
 [article]
   showDate = true
   showAuthor = true
+  showHero = false
+  showBreadcrumbs = true
   showReadingTime = true
-  showHeadingAnchors = true
   showTableOfContents = true
   showRelatedContent = true
   relatedContentLimit = 3
+  showTaxonomies = true
+  showWordCount = true
+  showZenMode = true
+  sharingLinks = ["email", "facebook"]
 
 [list]
+  showHero = true
+  showBreadcrumbs = true
   showSummary = true
-  groupByYear = true
+  showCards = true
   cardView = true
+  groupByYear = true
 
 [author]
-  name = "Lumen Orientale"
-  headline = "A journal for noticing more."
-  bio = "Notes on creativity, everyday rituals, and the small details that give ordinary days their light."
+  name = "Chavez Cyrillus Mariae Poon"
+  headline = "Dixi, et salvavi animam meam!"
+  bio = "Founder and Editor of Lumen Orientale"

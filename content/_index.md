@@ -1,6 +1,14 @@
 ---
 title: "Lumen Orientale"
 description: "An English-language journal about noticing more."
+heroCaption: "Lumen Orientale"
+heroLead: "A journal for noticing more."
+heroButtons:
+  - label: "About"
+    url: "/about/"
+  - label: "Read the journal"
+    url: "/posts/"
+    style: "outline"
 ---
 
 Welcome to a quieter corner of the internet. Here, we follow the threads that
