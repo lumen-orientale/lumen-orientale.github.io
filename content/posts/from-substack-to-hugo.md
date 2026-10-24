@@ -3,7 +3,7 @@ title: "A New Home for Lumen Orientale: Welcome to Our New Website!"
 date: 2026-10-24
 description: "From Substack to Hugo and Blowfish, discover the story behind our new website and the technologies that will support the future of Lumen Orientale."
 summary: "From Substack to Hugo and Blowfish, discover the story behind our new website and the technologies that will support the future of Lumen Orientale."
-tags: ["Personal"]
+tags: ["Substack", "Hugo", "Blowfish", "GitHub"]
 categories: ["Personal"]
 ---
 
@@ -106,7 +106,3 @@ We invite you to explore our new website, read our latest articles, and continue
 Once again, welcome to the new home of Lumen Orientale. We are glad to have you with us!
 
 May God bless you!
-
-*Chavez P.*
-*Founder and Editor of Lumen Orientale*
-*24th October 2026 (Saturday)*
