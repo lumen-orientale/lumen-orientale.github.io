@@ -29,7 +29,7 @@
   weight = 20
 
 [[footer]]
-  name = "Journal"
+  name = "Articles"
   pageRef = "posts"
   weight = 30
 
