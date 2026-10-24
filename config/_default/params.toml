@@ -5,7 +5,6 @@ enableA11y = true
 enableSearch = true
 enableCodeCopy = true
 mainSections = ["posts"]
-defaultBackgroundImage = img/fssp-urbe.jpg
 backgroundCanvas = true
 
 [header]
