@@ -1,0 +1,13 @@
+disabled = false
+locale = "en-US"
+label = "English"
+weight = 1
+title = "Lumen Orientale"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "An English-language journal about noticing more: creativity, everyday rituals, and the beauty of ordinary days."
+  copyright = "© 2026 Lumen Orientale"

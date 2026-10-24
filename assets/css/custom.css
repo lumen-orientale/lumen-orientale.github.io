@@ -1,0 +1,33 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: transparent;
+}
+
+body::before {
+  position: fixed;
+  z-index: -1;
+  inset: 0;
+  background:
+    linear-gradient(rgba(249, 247, 243, 0.78), rgba(249, 247, 243, 0.78)),
+    url("/img/fssp-urbe.jpg") center / cover no-repeat;
+  content: "";
+  pointer-events: none;
+}
+
+html.dark body::before {
+  background:
+    linear-gradient(rgba(24, 24, 27, 0.76), rgba(24, 24, 27, 0.76)),
+    url("/img/fssp-urbe.jpg") center / cover no-repeat;
+}
+
+body {
+  font-feature-settings: "kern";
+}
+
+::selection {
+  background: #d9b18a;
+  color: #29271f;
+}

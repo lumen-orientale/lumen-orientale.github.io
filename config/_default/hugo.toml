@@ -1,0 +1,19 @@
+baseURL = "https://lumen-orientale.github.io/"
+defaultContentLanguage = "en"
+locale = "en-US"
+title = "Lumen Orientale"
+theme = "blowfish"
+enableRobotsTXT = true
+enableEmoji = true
+summaryLength = 24
+copyright = "© 2026 Lumen Orientale"
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

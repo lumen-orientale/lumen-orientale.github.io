@@ -1,0 +1,46 @@
+colorScheme = "ocean"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+enableA11y = true
+enableSearch = true
+enableCodeCopy = true
+mainSections = ["posts"]
+defaultBackgroundImage = img/fssp-urbe.jpg
+backgroundCanvas = true
+
+[header]
+  layout = "basic"
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "background"
+  showRecent = true
+  showRecentItems = 3
+  showMoreLink = true
+  showMoreLinkDest = "/posts/"
+  layoutBackgroundBlur = false
+
+[article]
+  showDate = true
+  showAuthor = true
+  showReadingTime = true
+  showHeadingAnchors = true
+  showTableOfContents = true
+  showRelatedContent = true
+  relatedContentLimit = 3
+
+[list]
+  showSummary = true
+  groupByYear = true
+  cardView = true
+
+[author]
+  name = "Lumen Orientale"
+  headline = "A journal for noticing more."
+  bio = "Notes on creativity, everyday rituals, and the small details that give ordinary days their light."
