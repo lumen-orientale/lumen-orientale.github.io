@@ -11,3 +11,8 @@ title = "Lumen Orientale"
   dateFormat = "2 January 2006"
   description = "An English-language journal about noticing more: creativity, everyday rituals, and the beauty of ordinary days."
   copyright = "© 2026 Lumen Orientale"
+
+[params.author]
+  name = "Chavez Cyrillus Mariae Poon"
+  image = "img/regina-sinarum.jpg"
+  bio = "Founder and Editor of Lumen Orientale"
