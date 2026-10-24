@@ -12,7 +12,7 @@ body::before {
   inset: 0;
   background:
     linear-gradient(rgba(249, 247, 243, 0.78), rgba(249, 247, 243, 0.78)),
-    url("/img/fssp-urbe.jpg") center / cover no-repeat;
+    url("/img/london-oratory.jpg") center / cover no-repeat;
   content: "";
   pointer-events: none;
 }
@@ -20,7 +20,7 @@ body::before {
 html.dark body::before {
   background:
     linear-gradient(rgba(24, 24, 27, 0.76), rgba(24, 24, 27, 0.76)),
-    url("/img/fssp-urbe.jpg") center / cover no-repeat;
+    url("/img/london-oratory.jpg") center / cover no-repeat;
 }
 
 body {
