@@ -38,6 +38,7 @@ backgroundCanvas = true
   relatedContentLimit = 3
   showTaxonomies = true
   showWordCount = false
+  showThumbnail = true
   showZenMode = true
   sharingLinks = ["email", "facebook", "twitter"]
 
