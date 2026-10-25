@@ -3,6 +3,7 @@ title: "Vatican Bars Summorum Pontificum Pilgrims From Entering St. Peter’s Ba
 date: 2026-10-25
 summary: "The 15th annual pilgrimage in Rome faced further restrictions on Saturday, October 24, after the Vatican reportedly prohibited its planned procession into St. Peter’s Basilica."
 tags: ["Vatican", "Latin Mass", ]
+featuredImage: "https://substackcdn.com/image/fetch/$s_!dL0Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65c06a58-31b4-4ad4-8de0-875732813e2d_1024x630.png"
 ---
 
 ![](https://substackcdn.com/image/fetch/$s_!dL0Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65c06a58-31b4-4ad4-8de0-875732813e2d_1024x630.png)
