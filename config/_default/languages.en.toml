@@ -14,7 +14,7 @@ title = "Lumen Orientale"
 
 [params.author]
   name = "Chavez Cyrillus Mariae Poon"
-  image = "img/regina-sinarum.jpg"
+  image = "img/lumenorientale-logo.jpg"
   bio = "Founder and Editor of Lumen Orientale"
   links = [
   { facebook = "https://www.facebook.com/lumenorientale" },
