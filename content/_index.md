@@ -1,12 +1,6 @@
 ---
 title: "Lumen Orientale"
 description: "An English-language journal about noticing more."
-heroCaption: "Lumen Orientale"
+heroCaption: "Dixi, et salvavi animam meam!"
 heroLead: "Veritatem Facientes in Caritate."
-heroButtons:
-  - label: "About us"
-    url: "/about/"
-  - label: "Read the articles"
-    url: "/posts/"
-    style: "outline"
 ---
