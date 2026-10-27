@@ -1,13 +1,13 @@
 ---
 title: "Newly Elected Dean of College of Cardinals to Visit Macau for 450th Anniversary of Diocese"
 date: 2026-10-27
-description: "Cardinal Luis Antonio Tagle is expected to preside over a solemn Mass marking 450 years since the establishment of the Diocese of Macau."
+summary: "Cardinal Luis Antonio Tagle is expected to preside over a solemn Mass marking 450 years since the establishment of the Diocese of Macau."
 tags: ["Cardinal Tagle", "Macau", "Diocese of Macau"]
 featureimage: img/tagle-milan.jpg
 showHero: false
 ---
 
-![]([https://www.rappler.com/philippines/55753-tagle-complain-world-duomo-milan/](https://go.rappler.com/images/tagle-duomo-20140416-1.jpg))
+![](https://go.rappler.com/images/tagle-duomo-20140416-1.jpg)
 
 **MACAU, CHINA** -- Cardinal Luis Antonio Gokim Tagle, the newly elected Dean of the College of Cardinals, is set to visit Macau for celebrations marking the 450th anniversary of the establishment of the Diocese of Macau, according to a report by the Macau Diocese's local publication [O Clarim](https://oclarim.com.mo/article/luis-antonio-tagle-%E9%A1%9E%E6%80%9D-%E5%AE%89%E5%A4%9A%E5%B0%BC-%E5%A1%94%E6%A0%BC%E8%90%8A-%E6%A8%9E%E6%A9%9F%E8%92%9E%E8%87%A8%E6%BE%B3%E9%96%80-%E6%A8%9E%E6%A9%9F%E5%9C%98%E6%96%B0%E4%BB%BB%E5%9C%98%E9%95%B7%E5%B0%87%E5%9C%A8%E6%BE%B3%E9%96%80%E4%B8%BB%E7%A6%AE%E5%A4%A7%E7%A6%AE%E5%BD%8C%E6%92%92?lang=zh).
 
