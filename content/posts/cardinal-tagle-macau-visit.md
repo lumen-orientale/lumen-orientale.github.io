@@ -13,7 +13,7 @@ showHero: false
 
 Cardinal Tagle was recently elected Dean of the College of Cardinals on 8th October 2026. His visit coincides with a significant milestone in the history of the Catholic Church in Macau, whose diocese was established in 1576.
 
-According to O Clarim, Cardinal Luis Antonio Tagle, the newly elected Dean of the College of Cardinals, will preside over the Solemn Pontifical Mass of Thanksgiving in Macau on 31st October 2026, marking the 450th anniversary of the establishment of the Diocese of Macau and celebrating its rich missionary heritage.
+According to O Clarim, Cardinal Tagle will preside over the Solemn Pontifical Mass of Thanksgiving in Macau on 31st October 2026, marking the 450th anniversary of the establishment of the Diocese of Macau and celebrating its rich missionary heritage.
 
 ## A Historic Diocese in East Asian Region
 
