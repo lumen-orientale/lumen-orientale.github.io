@@ -18,4 +18,7 @@ We review every article submission, though we cannot guarantee a reply or public
 
 ## Follow us on social media!
 
+- [Facebook](https://www.facebook.com/lumenorientale)
 - [Instagram](https://www.instagram.com/lumen.orientale)
+- [Twitter (X)](https://twitter.com/chavezpoon)
+- [TikTok](https://www.tiktok.com/@lumen.orientale)
