@@ -1,5 +1,5 @@
 ---
-title: "Newly Elected Dean of College of Cardinals to Visit Macau for 450th Anniversary of Diocese"
+title: "Newly Elected Dean of the College of Cardinals to Visit Macau for 450th Anniversary of Diocese"
 date: 2026-10-27
 summary: "Cardinal Luis Antonio Tagle is expected to preside over a solemn Mass marking 450 years since the establishment of the Diocese of Macau."
 tags: ["Cardinal Tagle", "Macau", "Diocese of Macau"]
