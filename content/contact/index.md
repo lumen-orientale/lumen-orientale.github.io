@@ -1,6 +1,5 @@
 ---
 title: "Contact"
-description: "Let's get in touch!"
 showDate: false
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "About"
-description: "A little about Lumen Orientale and the ideas behind this journal."
 showDate: false
 ---
 
