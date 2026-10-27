@@ -2,7 +2,6 @@
 title: "A New Home for Lumen Orientale: Welcome to Our New Website!"
 date: 2026-10-24
 description: "From Substack to Hugo and Blowfish, discover the story behind our new website and the technologies that will support the future of Lumen Orientale."
-summary: "From Substack to Hugo and Blowfish, discover the story behind our new website and the technologies that will support the future of Lumen Orientale."
 tags: ["Substack", "Hugo", "Blowfish", "GitHub"]
 ---
 
