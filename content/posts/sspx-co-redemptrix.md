@@ -9,7 +9,7 @@ showHero: false
 
 ![](https://fsspx.org/sites/default/files/styles/content_image_16_9_desktop/public/fsspxactualites/fsspxnews/2021/davide_pagliarani_fsspx.jpg)
 
-Fr. Davide Pagliarani, Superior General of the Society of Saint Pius X (SSPX), has condemned the Vatican’s restrictions on Marian titles and criticised the legacy of the 1986 Assisi interreligious gathering in a letter accusing Rome of undermining Catholic doctrine.
+Father Davide Pagliarani, Superior General of the Society of Saint Pius X (SSPX), has condemned the Vatican’s restrictions on Marian titles and criticised the legacy of the 1986 Assisi interreligious gathering in a letter accusing Rome of undermining Catholic doctrine.
 
 In a letter published on 4 November, marking the first anniversary of the Dicastery for the Doctrine of the Faith’s document *Mater Populi Fidelis*, Father Davide Pagliarani, Superior General of the Society of Saint Pius X (SSPX), criticised the text, arguing that it could have significant theological and pastoral consequences.
 
