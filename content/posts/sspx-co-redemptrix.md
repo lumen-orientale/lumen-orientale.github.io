@@ -41,7 +41,7 @@ The SSPX superior argued that Mary’s role as Mother and Queen necessarily poin
 
 The letter develops its theological argument around a liturgical invocation describing the Blessed Virgin Mary as the one who has overcome heresies throughout the world:
 
-“Rejoice, O Virgin Mary, for thou alone hast crushed all heresies in the whole world.”
+>*“Rejoice, O Virgin Mary, for thou alone hast crushed all heresies in the whole world.”*
 
 Father Pagliarani argued that this invocation reflects Mary’s mission to lead souls to Jesus Christ, whom he identified as the incarnate Truth. He maintained that her maternal mission involves not only communicating supernatural life but also protecting it from doctrines that could undermine knowledge of Christ.
 
