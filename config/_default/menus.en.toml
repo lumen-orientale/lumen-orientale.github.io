@@ -14,9 +14,14 @@
   weight = 30
 
 [[main]]
+  name = "Donate"
+  pageRef = "donate"
+  weight = 40
+
+[[main]]
   name = "Contact"
   pageRef = "contact"
-  weight = 40
+  weight = 50
 
 [[footer]]
   name = "Home"
@@ -34,11 +39,16 @@
   weight = 30
 
 [[footer]]
+  name = "Donate"
+  pageRef = "donate"
+  weight = 40
+
+[[footer]]
   name = "Contact"
   pageRef = "contact"
-  weight = 40
+  weight = 50
 
 [[footer]]
   name = "Disclaimer"
   pageRef = "disclaimer"
-  weight = 50
+  weight = 60
