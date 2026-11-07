@@ -2,7 +2,7 @@
 title: "Cardinal Chow to address Rome conference marking centenary of first Chinese episcopal consecrations"
 date: 2026-11-07
 summary: "The Superior General of the Society of Saint Pius X has described the Vatican’s position on the title “Co-Redemptrix” as “disastrous,” prompting renewed discussion over the theological significance of the title and the Blessed Virgin Mary’s role in the work of Redemption."
-tags: ["SSPX", "Society of St. Pius X", "Co-Redemptrix"]
+tags: ["China", "Chinese Bishops"]
 featureimage: img/chinese-bishops-rome.jpg
 showHero: false
 ---
